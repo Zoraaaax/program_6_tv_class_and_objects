@@ -2,5 +2,4 @@
 from tv import TV
 
 
-class TestTV:
-    
+#  Define a TestTV class
