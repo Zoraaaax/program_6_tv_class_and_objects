@@ -29,3 +29,4 @@ class TestTV:
 
 
 #  Run Test
+TestTV().test_tv()
