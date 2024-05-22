@@ -22,4 +22,6 @@ class TestTV:
         # Use the 'set_channel' and 'set_volume_level' method on 'tv2'
         tv2.set_channel(2)
         tv2.set_volume_level(5)
+
+        #  Print the channel and volume level of 'tv1' and 'tv2'
         
