@@ -11,5 +11,5 @@ class TestTV:
         tv1 = TV()
         tv2 = TV()
 
-        # Call 'turn_on' method on 'tv1' and 'tv2'
+        # Use the 'turn_on' method on 'tv1' and 'tv2
         
