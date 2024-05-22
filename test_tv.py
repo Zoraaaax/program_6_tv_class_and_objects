@@ -24,4 +24,6 @@ class TestTV:
         tv2.set_volume_level(5)
 
         #  Print the channel and volume level of 'tv1' and 'tv2'
-        
+        print(f"tv1's channel is {tv1.get_channel()} and volume level is {tv1.get_volume_level()}")
+        print(f"tv2's channel is {tv2.get_channel()} and volume level is {tv2.get_volume_level()}")
+
