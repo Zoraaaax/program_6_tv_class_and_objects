@@ -36,7 +36,7 @@ class TV:
         if self.on and self.channel < 120:
             self.channel += 1
 
-    # Method to ecrement the channel in the TV
+    # Method to decrement the channel in the TV
     def channel_down(self):
         if self.on and self.channel > 1:
             self.channel -= 1
