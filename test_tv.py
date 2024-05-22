@@ -3,3 +3,5 @@ from tv import TV
 
 
 #  Define class TestTV
+class TestTV:
+
