@@ -6,4 +6,7 @@ class TV:
         self.on = False
 
     #  Method to turn on the TV
+    def turn_on(self):
+        self.on = True
+        
 
