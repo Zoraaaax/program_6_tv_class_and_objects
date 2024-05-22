@@ -20,3 +20,6 @@ class TestTV:
         tv1.set_volume_level(4)
 
         # Use the 'set_channel' and 'set_volume_level' method on 'tv2'
+        tv2.set_channel(2)
+        tv2.set_volume_level(5)
+        
