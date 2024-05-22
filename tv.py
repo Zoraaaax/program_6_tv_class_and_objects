@@ -11,7 +11,7 @@ class TV:
     # Method to turn off the TV
     def turn_off(self):
         self.on = False
-
+    # Method to set the channel in TV
     def set_channel(self, channel_no):
         if self.on and 1 <= channel_no <= 120:
             self.channel = channel_no
