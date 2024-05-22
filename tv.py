@@ -8,5 +8,8 @@ class TV:
     #  Method to turn on the TV
     def turn_on(self):
         self.on = True
+
+    def turn_off(self):
+        self.on = False
         
 
