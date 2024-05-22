@@ -6,3 +6,5 @@ from tv import TV
 class TestTV:
 
     #  Define a method test_tv
+    def test_tv(self):
+        
