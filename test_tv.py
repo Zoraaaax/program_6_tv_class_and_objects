@@ -4,4 +4,5 @@ from tv import TV
 
 #  Define a TestTV class
 class TestTV:
-    
+
+    #  Define a method test_tv
