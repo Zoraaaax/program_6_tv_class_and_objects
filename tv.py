@@ -33,3 +33,7 @@ class TV:
     def channel_down(self):
         if self.on and self.channel > 1:
             self.channel -= 1
+
+    def volume_up(self):
+        if self.on and self.volume_level < 7:
+            self.volume_level += 1
