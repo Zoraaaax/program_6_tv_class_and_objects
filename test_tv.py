@@ -15,6 +15,6 @@ class TestTV:
         tv1.turn_on()
         tv2.turn_on()
 
-        # Use the 'set_channel' method on 'tv1' and 'tv2
+        # Use the 'set_channel' and 'set_volume_level' method on 'tv1'
         tv1.set_channel(3)
         tv1.set_volume_level(4)
