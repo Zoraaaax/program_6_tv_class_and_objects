@@ -8,9 +8,11 @@ class TV:
     #  Method to turn on the TV
     def turn_on(self):
         self.on = True
+
     # Method to turn off the TV
     def turn_off(self):
         self.on = False
+
     # Method to set the channel in TV
     def set_channel(self, channel_no):
         if self.on and 1 <= channel_no <= 120:
