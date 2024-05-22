@@ -11,5 +11,7 @@ class TV:
 
     def turn_off(self):
         self.on = False
+
+    def set_channel(self, channel_no):
         
 
